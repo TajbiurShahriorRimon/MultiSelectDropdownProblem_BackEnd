@@ -1,0 +1,6 @@
+D:\c_sharpProject\New\New\obj\Debug\New.csprojAssemblyReference.cache
+D:\c_sharpProject\New\New\obj\Debug\New.csproj.CoreCompileInputs.cache
+D:\c_sharpProject\New\New\bin\Debug\New.exe
+D:\c_sharpProject\New\New\bin\Debug\New.pdb
+D:\c_sharpProject\New\New\obj\Debug\New.exe
+D:\c_sharpProject\New\New\obj\Debug\New.pdb
